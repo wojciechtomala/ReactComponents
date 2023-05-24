@@ -1,0 +1,43 @@
+[
+    {
+      "brand": "Marka1",
+      "models": [
+        {
+          "name": "Model1a",
+          "generations": [
+            "Generacja1a",
+            "Generacja1b",
+            "Generacja1c"
+          ]
+        },
+        {
+          "name": "Model1b",
+          "generations": [
+            "Generacja1d",
+            "Generacja1e"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Marka2",
+      "models": [
+        {
+          "name": "Model2a",
+          "generations": [
+            "Generacja2a",
+            "Generacja2b"
+          ]
+        },
+        {
+          "name": "Model2b",
+          "generations": [
+            "Generacja2c",
+            "Generacja2d",
+            "Generacja2e"
+          ]
+        }
+      ]
+    }
+  ]
+  
